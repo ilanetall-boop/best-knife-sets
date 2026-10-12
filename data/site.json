@@ -35,5 +35,16 @@
       "ga_id": "G-20DRFV9SXG"
     }
   },
-  "articles": []
+  "articles": [
+    {
+      "slug": "best-knife-sets-under-100",
+      "title": "The Best Kitchen Knife Sets Under $100",
+      "description": "Under a hundred dollars you can still get forged steel, full tang and a published contents list. Three that deliver, and the claims to ignore.",
+      "category": "Roundup",
+      "hero": "hero-best-knife-sets-under-100",
+      "minutes": 14,
+      "date": "2026-10-12",
+      "featured": true
+    }
+  ]
 }
