@@ -45,6 +45,16 @@
       "minutes": 14,
       "date": "2026-10-12",
       "featured": true
+    },
+    {
+      "slug": "stamped-vs-forged-kitchen-knives",
+      "title": "Stamped vs Forged Kitchen Knives: Which Should You Buy?",
+      "description": "One is hammered from a bar of steel, the other cut from a sheet. The difference is in the hand, not in the edge — and the cheaper one is not worse.",
+      "category": "Comparison",
+      "hero": "hero-stamped-vs-forged-kitchen-knives",
+      "minutes": 14,
+      "date": "2026-10-13",
+      "featured": true
     }
   ]
 }
