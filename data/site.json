@@ -55,6 +55,16 @@
       "minutes": 14,
       "date": "2026-10-13",
       "featured": true
+    },
+    {
+      "slug": "how-many-knives-do-you-actually-need",
+      "title": "How Many Kitchen Knives Do You Actually Need?",
+      "description": "Three, and the third is arguable. What a 15-piece block really contains, and why the piece count is the worst way to compare two sets.",
+      "category": "Honest take",
+      "hero": "hero-how-many-knives-do-you-actually-need",
+      "minutes": 15,
+      "date": "2026-10-14",
+      "featured": true
     }
   ]
 }
