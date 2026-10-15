@@ -65,6 +65,16 @@
       "minutes": 15,
       "date": "2026-10-14",
       "featured": true
+    },
+    {
+      "slug": "best-japanese-style-knife-sets",
+      "title": "The Best Japanese-Style Knife Sets",
+      "description": "A gyutou is ground near 15 degrees where a German knife sits around 20. That narrower edge bites more easily and forgives less. Three sets worth the attention.",
+      "category": "Roundup",
+      "hero": "hero-best-japanese-style-knife-sets",
+      "minutes": 14,
+      "date": "2026-10-15",
+      "featured": true
     }
   ]
 }
