@@ -75,6 +75,16 @@
       "minutes": 14,
       "date": "2026-10-15",
       "featured": true
+    },
+    {
+      "slug": "knife-sets-with-built-in-sharpeners",
+      "title": "Knife Sets With a Built-In Sharpener: Worth It?",
+      "description": "A sharpener in the block touches up the edge every time you put the knife away. Genuinely useful, and not the same as sharpening properly.",
+      "category": "Buying guide",
+      "hero": "hero-knife-sets-with-built-in-sharpeners",
+      "minutes": 14,
+      "date": "2026-10-16",
+      "featured": true
     }
   ]
 }
