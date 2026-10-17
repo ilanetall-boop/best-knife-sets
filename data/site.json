@@ -85,6 +85,16 @@
       "minutes": 14,
       "date": "2026-10-16",
       "featured": true
+    },
+    {
+      "slug": "how-to-care-for-kitchen-knives",
+      "title": "How to Keep a Knife Set Sharp for Years",
+      "description": "Nothing here is difficult and all of it is skipped. The washing, the storing and the sharpening that separate a set that lasts from one replaced in two years.",
+      "category": "How-to",
+      "hero": "hero-how-to-care-for-kitchen-knives",
+      "minutes": 16,
+      "date": "2026-10-17",
+      "featured": true
     }
   ]
 }
