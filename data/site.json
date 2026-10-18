@@ -95,6 +95,16 @@
       "minutes": 16,
       "date": "2026-10-17",
       "featured": true
+    },
+    {
+      "slug": "best-knife-sets-for-a-first-apartment",
+      "title": "The Best Knife Sets for a First Apartment",
+      "description": "A complete kitchen for the price of one good knife. What to accept at this price, what never to accept, and the three sets that get it right.",
+      "category": "Roundup",
+      "hero": "hero-best-knife-sets-for-a-first-apartment",
+      "minutes": 14,
+      "date": "2026-10-18",
+      "featured": true
     }
   ]
 }
