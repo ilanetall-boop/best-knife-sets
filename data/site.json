@@ -105,6 +105,16 @@
       "minutes": 14,
       "date": "2026-10-18",
       "featured": true
+    },
+    {
+      "slug": "what-is-in-a-15-piece-knife-set",
+      "title": "What Is Actually in a 15-Piece Knife Set?",
+      "description": "Eight knives, six steak knives and a block — or seven knives, shears, a sharpener and a block. Two sets with the same number can be very different purchases.",
+      "category": "Buying guide",
+      "hero": "hero-what-is-in-a-15-piece-knife-set",
+      "minutes": 15,
+      "date": "2026-10-19",
+      "featured": true
     }
   ]
 }
