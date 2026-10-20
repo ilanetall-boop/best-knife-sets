@@ -115,6 +115,16 @@
       "minutes": 15,
       "date": "2026-10-19",
       "featured": true
+    },
+    {
+      "slug": "best-knife-sets-without-a-block",
+      "title": "The Best Knife Sets Without a Block",
+      "description": "A block is furniture. If your counter is short or your drawer is deep, these are the sets that give you blades instead of a box.",
+      "category": "Roundup",
+      "hero": "hero-best-knife-sets-without-a-block",
+      "minutes": 14,
+      "date": "2026-10-20",
+      "featured": true
     }
   ]
 }
