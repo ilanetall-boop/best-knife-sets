@@ -125,6 +125,16 @@
       "minutes": 14,
       "date": "2026-10-20",
       "featured": true
+    },
+    {
+      "slug": "german-vs-japanese-kitchen-knives",
+      "title": "German vs Japanese Kitchen Knives",
+      "description": "Heavier and more forgiving, or lighter and sharper. Both are right — the question is what you cook and how carefully you treat your knives.",
+      "category": "Comparison",
+      "hero": "hero-german-vs-japanese-kitchen-knives",
+      "minutes": 13,
+      "date": "2026-10-21",
+      "featured": true
     }
   ]
 }
