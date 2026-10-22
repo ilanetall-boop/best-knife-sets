@@ -135,6 +135,16 @@
       "minutes": 13,
       "date": "2026-10-21",
       "featured": true
+    },
+    {
+      "slug": "best-knife-sets-as-a-gift",
+      "title": "The Best Knife Sets to Give as a Gift",
+      "description": "A knife set is a gift people keep for a decade or resent for a month. What makes one a good present, and the three that are.",
+      "category": "Roundup",
+      "hero": "hero-best-knife-sets-as-a-gift",
+      "minutes": 15,
+      "date": "2026-10-22",
+      "featured": true
     }
   ]
 }
