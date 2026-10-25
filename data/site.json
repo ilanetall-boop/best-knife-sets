@@ -165,6 +165,16 @@
       "minutes": 12,
       "date": "2026-10-24",
       "featured": true
+    },
+    {
+      "slug": "knife-set-buying-guide",
+      "title": "How to Choose a Kitchen Knife Set",
+      "description": "Six questions in the order that matters. Answer them and the shortlist writes itself — and the piece count is not one of them.",
+      "category": "Buying guide",
+      "hero": "hero-knife-set-buying-guide",
+      "minutes": 15,
+      "date": "2026-10-25",
+      "featured": true
     }
   ]
 }
