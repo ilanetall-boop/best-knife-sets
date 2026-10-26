@@ -175,6 +175,16 @@
       "minutes": 15,
       "date": "2026-10-25",
       "featured": true
+    },
+    {
+      "slug": "best-splurge-knife-sets",
+      "title": "The Best Splurge-Worthy Knife Sets",
+      "description": "Above a hundred and fifty dollars the pitch changes: more steel, a sharpening mechanism built into the block, twenty pieces instead of fifteen. What actually justifies the price, and three sets that earn it.",
+      "category": "Roundup",
+      "hero": "hero-best-splurge-knife-sets",
+      "minutes": 16,
+      "date": "2026-10-26",
+      "featured": true
     }
   ]
 }
