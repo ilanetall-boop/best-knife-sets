@@ -29,7 +29,12 @@
         "priority": "0.3"
       }
     ],
-    "network_card": null,
+    "network_card": {
+      "href": "https://best-dutch-ovens.com/",
+      "category": "From our network",
+      "title": "The pot your knives are prepping for",
+      "description": "Our sister site compares dutch ovens the same way: enameled against bare cast iron, how the lid seals, real oven-safe limits, and which size fits the way you cook."
+    },
     "analytics": {
       "clarity_id": "yw32d1pfjw",
       "ga_id": "G-20DRFV9SXG"
