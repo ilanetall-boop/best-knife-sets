@@ -200,6 +200,16 @@
       "minutes": 16,
       "date": "2026-10-27",
       "featured": true
+    },
+    {
+      "slug": "full-tang-knife-sets-explained",
+      "title": "What 'Full Tang' Actually Means on a Knife Set",
+      "description": "The metal does not stop at the blade. On a full-tang knife it runs the length of the handle, riveted through — and you can usually see it without reading a single spec.",
+      "category": "Buying guide",
+      "hero": "hero-full-tang-knife-sets-explained",
+      "minutes": 14,
+      "date": "2026-10-28",
+      "featured": true
     }
   ]
 }
