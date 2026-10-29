@@ -210,6 +210,16 @@
       "minutes": 14,
       "date": "2026-10-28",
       "featured": true
+    },
+    {
+      "slug": "color-coded-knife-sets-cross-contamination",
+      "title": "Color-Coded Knife Sets: Do They Actually Prevent Cross-Contamination?",
+      "description": "A red handle for meat, a green one for vegetables. The system works in commercial kitchens with trained staff — whether it survives contact with one household cutting board is a different question.",
+      "category": "Buying guide",
+      "hero": "hero-color-coded-knife-sets-cross-contamination",
+      "minutes": 14,
+      "date": "2026-10-29",
+      "featured": true
     }
   ]
 }
