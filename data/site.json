@@ -220,6 +220,16 @@
       "minutes": 14,
       "date": "2026-10-29",
       "featured": true
+    },
+    {
+      "slug": "best-knife-sets-under-30",
+      "title": "The Best Knife Sets Under $30",
+      "description": "Below thirty dollars the block gets smaller and the steel gets thinner, but a published construction detail still separates the honest sets from the rest. Three worth the money.",
+      "category": "Roundup",
+      "hero": "hero-best-knife-sets-under-30",
+      "minutes": 15,
+      "date": "2026-10-30",
+      "featured": true
     }
   ]
 }
