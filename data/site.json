@@ -230,6 +230,16 @@
       "minutes": 15,
       "date": "2026-10-30",
       "featured": true
+    },
+    {
+      "slug": "knife-block-material-guide",
+      "title": "Knife Block Material: Acacia Wood, Pine and Magnetic — Does It Matter?",
+      "description": "A block is not just a holder, it is what keeps the edge off other metal and off the knife next to it. Three materials in this catalogue, and what each one actually changes.",
+      "category": "Buying guide",
+      "hero": "hero-knife-block-material-guide",
+      "minutes": 15,
+      "date": "2026-10-31",
+      "featured": true
     }
   ]
 }
