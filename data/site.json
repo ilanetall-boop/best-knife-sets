@@ -240,6 +240,16 @@
       "minutes": 15,
       "date": "2026-10-31",
       "featured": true
+    },
+    {
+      "slug": "knife-sets-100-to-200",
+      "title": "The Best Knife Sets Between $100 and $200",
+      "description": "This is where German engineering and Japanese-style grinds start to overlap in price. Three sets in the middle of the catalogue, and what the extra money over the fifty-dollar sets buys.",
+      "category": "Roundup",
+      "hero": "hero-knife-sets-100-to-200",
+      "minutes": 14,
+      "date": "2026-11-01",
+      "featured": true
     }
   ]
 }
