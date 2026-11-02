@@ -250,6 +250,16 @@
       "minutes": 14,
       "date": "2026-11-01",
       "featured": true
+    },
+    {
+      "slug": "sharp-marketing-words-knife-sets",
+      "title": "\"Ultra-Sharp\" and \"Razor-Sharp\": What Knife Set Marketing Words Actually Tell You",
+      "description": "Every listing in this category claims to be sharp out of the box. None of them publish a way to check. What these two phrases are standing in for, and how to tell a genuinely sharp edge without a lab.",
+      "category": "Honest take",
+      "hero": "hero-sharp-marketing-words-knife-sets",
+      "minutes": 16,
+      "date": "2026-11-02",
+      "featured": true
     }
   ]
 }
