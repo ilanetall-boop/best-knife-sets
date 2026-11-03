@@ -260,6 +260,16 @@
       "minutes": 16,
       "date": "2026-11-02",
       "featured": true
+    },
+    {
+      "slug": "universal-knife-block-vs-fixed-slot",
+      "title": "Universal Knife Blocks vs Fixed-Slot Blocks: Does the Flexible Design Work?",
+      "description": "One block uses bristles or pins that flex to fit any blade; the other has a slot cut for a specific knife. What you gain in flexibility, and what you give up in grip.",
+      "category": "Comparison",
+      "hero": "hero-universal-knife-block-vs-fixed-slot",
+      "minutes": 15,
+      "date": "2026-11-03",
+      "featured": true
     }
   ]
 }
