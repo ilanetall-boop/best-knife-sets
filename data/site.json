@@ -280,6 +280,16 @@
       "minutes": 14,
       "date": "2026-11-04",
       "featured": true
+    },
+    {
+      "slug": "what-high-carbon-stainless-steel-means",
+      "title": "What 'High Carbon Stainless Steel' Actually Guarantees",
+      "description": "The phrase is on almost every listing in this category and on its own it guarantees almost nothing. What it means when a brand also publishes a hardness number, and what it means when that is all they say.",
+      "category": "Honest take",
+      "hero": "hero-what-high-carbon-stainless-steel-means",
+      "minutes": 14,
+      "date": "2026-11-05",
+      "featured": true
     }
   ]
 }
