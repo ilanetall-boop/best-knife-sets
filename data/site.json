@@ -300,6 +300,16 @@
       "minutes": 15,
       "date": "2026-11-06",
       "featured": true
+    },
+    {
+      "slug": "knife-handle-materials-explained",
+      "title": "Knife Handle Materials: ABS, Triple-Riveted and What 'Ergonomic' Actually Means",
+      "description": "A riveted handle is not decoration, and 'ergonomic' on a listing rarely comes with a shape you can check before buying. What the handle is actually doing while you cut.",
+      "category": "Buying guide",
+      "hero": "hero-knife-handle-materials-explained",
+      "minutes": 15,
+      "date": "2026-11-07",
+      "featured": true
     }
   ]
 }
