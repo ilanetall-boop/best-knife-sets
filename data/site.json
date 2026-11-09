@@ -320,6 +320,16 @@
       "minutes": 14,
       "date": "2026-11-08",
       "featured": true
+    },
+    {
+      "slug": "pull-through-sharpener-vs-honing-steel",
+      "title": "Pull-Through Sharpeners vs Honing Steels: What's Actually Keeping the Edge in These Sets",
+      "description": "A slot sharpener touches the edge every time you put the knife away. A honing steel does nothing until you pick it up. Some sets include neither. The difference matters more than the block.",
+      "category": "Buying guide",
+      "hero": "hero-pull-through-sharpener-vs-honing-steel",
+      "minutes": 15,
+      "date": "2026-11-09",
+      "featured": true
     }
   ]
 }
