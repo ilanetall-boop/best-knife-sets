@@ -330,6 +330,16 @@
       "minutes": 15,
       "date": "2026-11-09",
       "featured": true
+    },
+    {
+      "slug": "cuisinart-knife-sets-compared",
+      "title": "Cuisinart Knife Sets Compared: From $18 to $80",
+      "description": "Cuisinart sells a 12-piece set for under $20 and a 7-piece block with a built-in sharpener for $68. Four Cuisinart sets, and which tier actually matches which kitchen.",
+      "category": "Comparison",
+      "hero": "hero-cuisinart-knife-sets-compared",
+      "minutes": 15,
+      "date": "2026-11-10",
+      "featured": true
     }
   ]
 }
