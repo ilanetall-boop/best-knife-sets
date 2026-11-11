@@ -340,6 +340,16 @@
       "minutes": 15,
       "date": "2026-11-10",
       "featured": true
+    },
+    {
+      "slug": "martha-stewart-knife-sets-compared",
+      "title": "Martha Stewart Knife Sets Compared: 14-Piece vs 16-Piece",
+      "description": "Both sets use acacia wood blocks and triple-riveted handles; the gap is two pieces and twenty-five dollars. What the extra pieces and the extra steel actually are.",
+      "category": "Comparison",
+      "hero": "hero-martha-stewart-knife-sets-compared",
+      "minutes": 13,
+      "date": "2026-11-11",
+      "featured": true
     }
   ]
 }
