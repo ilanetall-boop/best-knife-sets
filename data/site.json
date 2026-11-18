@@ -410,6 +410,16 @@
       "minutes": 15,
       "date": "2026-11-17",
       "featured": true
+    },
+    {
+      "slug": "henckels-statement-knife-sets-compared",
+      "title": "Henckels Statement Knife Sets Compared: 12, 15 and 20 Pieces",
+      "description": "Same German-engineered line, three block sizes and a seventy-dollar gap between the smallest and the largest. What the extra pieces are, and whether the jump is worth it.",
+      "category": "Comparison",
+      "hero": "hero-henckels-statement-knife-sets-compared",
+      "minutes": 15,
+      "date": "2026-11-18",
+      "featured": true
     }
   ]
 }
