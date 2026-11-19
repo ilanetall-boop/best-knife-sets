@@ -420,6 +420,16 @@
       "minutes": 15,
       "date": "2026-11-18",
       "featured": true
+    },
+    {
+      "slug": "mccook-knife-sets-compared",
+      "title": "McCook Knife Sets Compared: Same Price, Different Listings",
+      "description": "Two McCook 15-piece sets list for the identical $125.99 with nearly identical specs, and a 20-piece set undercuts both at $119.99. What actually separates the listings, if anything does.",
+      "category": "Honest take",
+      "hero": "hero-mccook-knife-sets-compared",
+      "minutes": 15,
+      "date": "2026-11-19",
+      "featured": true
     }
   ]
 }
