@@ -430,6 +430,16 @@
       "minutes": 15,
       "date": "2026-11-19",
       "featured": true
+    },
+    {
+      "slug": "ninja-neverdull-sizes-compared",
+      "title": "Ninja NeverDull Knife Sets Compared: 12, 14 and 17 Pieces",
+      "description": "The same built-in sharpening slot across three block sizes, and a $180 gap between the smallest and the largest. What the extra pieces and the extra money actually buy.",
+      "category": "Comparison",
+      "hero": "hero-ninja-neverdull-sizes-compared",
+      "minutes": 15,
+      "date": "2026-11-20",
+      "featured": true
     }
   ]
 }
