@@ -440,6 +440,16 @@
       "minutes": 15,
       "date": "2026-11-20",
       "featured": true
+    },
+    {
+      "slug": "kitchenaid-gourmet-knife-set-review",
+      "title": "KitchenAid Gourmet 15-Piece Knife Set: Full Review",
+      "description": "A built-in sharpener and a recognizable appliance brand for $79.99. What's actually in the block, and whether the KitchenAid name adds anything a $50 set does not.",
+      "category": "Review",
+      "hero": "hero-kitchenaid-gourmet-knife-set-review",
+      "minutes": 14,
+      "date": "2026-11-21",
+      "featured": true
     }
   ]
 }
